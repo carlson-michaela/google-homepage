@@ -1,4 +1,4 @@
-﻿#google-homepage
+﻿Google Homepage
 
 From The Odin Project's [curriculum]
 
